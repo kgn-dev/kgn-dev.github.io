@@ -1,13 +1,19 @@
-<div id="header" align="center">
+<div id="header">
 	<h2>Projects page</h2>  
 </div>
-<div align="left">
-  <h3>in dev</h3>
-  <li><a href="">WorkGroupAdmin</a> [Private] [C#] [Desktop]</li>
-  <li><a href="">SymLinkManager</a> [Private] [C#] [Desktop]</li>
-  <li><a href="">BackupYourFiles</a> [Private] [C#] [Desktop]</li>
-  <li><a href="">stock-services</a> [Private] [NodeJS] [WEB]</li>
-  <li><a href="">1c-errors-assistant</a> [Private] [NodeJS] [WEB]</li>
-  <h3>archive</h3>
-  <h3>complete</h3>
+<div>
+<table border="1">
+	<tr>
+		<th>name</th>
+		<th>status</th>
+		<th>lang</th>
+		<th>OS</th>
+		<th>link</th>
+	</tr>
+	<tr><td>WorkGroupAdmin</td><td>dev</td><td>C#</td><td>Desktop</td><td>[private]</td></tr>
+	<tr><td>SymLinkManager</td><td>dev</td><td>C#</td><td>Desktop</td><td>[private]</td></tr>
+	<tr><td>BackupYourFiles</td><td>dev</td><td>C#</td><td>Desktop</td><td>[private]</td></tr>
+	<tr><td>stock-services</td><td>dev</td><td>NodeJS</td><td>WEB</td><td>[private]</td></tr>
+	<tr><td>1c-errors-assistant</td><td>dev</td><td>NodeJS</td><td>WEB</td><td>[private]</td></tr>
+</table>
 </div>
