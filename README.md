@@ -1,1 +1,4 @@
-# kgn-dev.github.io
+# kgn-dev projects page
+## In progress:
+
+## Complete:
